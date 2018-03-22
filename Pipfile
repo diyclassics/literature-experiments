@@ -10,6 +10,7 @@ name = "pypi"
 jupyter = "*"
 cltk = "*"
 matplotlib = "*"
+scattertext = "*"
 
 
 [dev-packages]
